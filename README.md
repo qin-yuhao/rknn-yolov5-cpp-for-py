@@ -18,6 +18,11 @@
  | Yolov5s - relu  |  120 |
  
  ![a](fps.png)
+ ![b](resu_0.jpg)
+ ![c](resu_1.jpg)
+ ![d](resu_2.jpg)
+ ![e](resu_3.jpg)
+ 
 # Acknowledgements
 * https://github.com/leafqycc/rknn-cpp-Multithreading
 * https://github.com/rockchip-linux/rknpu2
