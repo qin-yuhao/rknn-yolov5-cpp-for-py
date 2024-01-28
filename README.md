@@ -11,11 +11,12 @@
 * 测试模型来源: 
 * [yolov5s-relu](https://github.com/rockchip-linux/rknpu2/tree/master/examples/rknn_yolov5_demo/model/RK3588)
 * 测试时未进行CPU/NPU定频
-* 返回值是检测到的目标在原图中的切片
+* 返回值是检测到的目标在原图中的切片letterbox后的图片
   
  |  模型\线程数   |  12  |
  |  ----  | ----  |
  | Yolov5s - relu  |  120 |
+ ![a](fps.png)
 # Acknowledgements
 * https://github.com/leafqycc/rknn-cpp-Multithreading
 * https://github.com/rockchip-linux/rknpu2
