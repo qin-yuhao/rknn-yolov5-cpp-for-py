@@ -1,0 +1,5 @@
+/home/orangepi/Desktop/rknpu2-1.4.0/examples/pybind11_debug_eg-main/build/CMakeFiles/objdetecter.dir
+/home/orangepi/Desktop/rknpu2-1.4.0/examples/pybind11_debug_eg-main/build/CMakeFiles/edit_cache.dir
+/home/orangepi/Desktop/rknpu2-1.4.0/examples/pybind11_debug_eg-main/build/CMakeFiles/rebuild_cache.dir
+/home/orangepi/Desktop/rknpu2-1.4.0/examples/pybind11_debug_eg-main/build/pybind11/CMakeFiles/edit_cache.dir
+/home/orangepi/Desktop/rknpu2-1.4.0/examples/pybind11_debug_eg-main/build/pybind11/CMakeFiles/rebuild_cache.dir

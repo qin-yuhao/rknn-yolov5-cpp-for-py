@@ -1,0 +1,5 @@
+/home/orangepi/Desktop/rknpu2-1.4.0/examples/pybind11_debug_eg-main/build/temp.linux-aarch64-cpython-310/objdetecter/CMakeFiles/objdetecter.dir
+/home/orangepi/Desktop/rknpu2-1.4.0/examples/pybind11_debug_eg-main/build/temp.linux-aarch64-cpython-310/objdetecter/CMakeFiles/edit_cache.dir
+/home/orangepi/Desktop/rknpu2-1.4.0/examples/pybind11_debug_eg-main/build/temp.linux-aarch64-cpython-310/objdetecter/CMakeFiles/rebuild_cache.dir
+/home/orangepi/Desktop/rknpu2-1.4.0/examples/pybind11_debug_eg-main/build/temp.linux-aarch64-cpython-310/objdetecter/pybind11/CMakeFiles/edit_cache.dir
+/home/orangepi/Desktop/rknpu2-1.4.0/examples/pybind11_debug_eg-main/build/temp.linux-aarch64-cpython-310/objdetecter/pybind11/CMakeFiles/rebuild_cache.dir
