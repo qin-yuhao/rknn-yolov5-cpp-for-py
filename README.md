@@ -16,6 +16,7 @@
  |  模型\线程数   |  12  |
  |  ----  | ----  |
  | Yolov5s - relu  |  120 |
+ 
  ![a](fps.png)
 # Acknowledgements
 * https://github.com/leafqycc/rknn-cpp-Multithreading
